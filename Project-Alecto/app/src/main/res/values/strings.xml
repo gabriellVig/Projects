@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RoomWordSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_word">Word...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="pomodoro">Pomodoro</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="do_the_dishes">Do the dishes</string>
+    <string name="goal">Goal</string>
+    <string name="pick_the_green_one">Pick the green one</string>
+    <string name="description">Description</string>
+    <string name="task_name">Task name</string>
+    <string name="choose_category">Choose Category</string>
+    <string name="eating_breakfast">Eating breakfast</string>
+    <string name="pick_child">Pick Child</string>
+    <string name="pick_parent">Pick Parent</string>
+    <string name="timer">Timer</string>
+</resources>
