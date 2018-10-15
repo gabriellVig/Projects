@@ -1,1 +1,2 @@
-# UiO-Projects
+# Projects
+Coding projects from university and personal development.
